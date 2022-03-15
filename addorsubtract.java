@@ -17,9 +17,9 @@ public class addorsubtract {
         System.out.print("sum" + result);
 
 
-   //     double result2 = firstoperand - secondoperand;
+       double result2 = firstoperand - secondoperand;
 
-     //   System.out.print("difference" + result2);
+       System.out.print("difference" + result2);
 
 
 
